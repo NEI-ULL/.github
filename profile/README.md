@@ -1,2 +1,4 @@
-<p align="center">👋 Hi there! Welcome to NEIULL 👋</p>
-<img src="https://octodex.github.com/images/stormtroopocat.jpg"/>
+<div align="center">
+  <p>👋 Hi there! Welcome to NEIULL 👋</p>
+  <img src="https://octodex.github.com/images/stormtroopocat.jpg" height="500x"/>
+</div>
